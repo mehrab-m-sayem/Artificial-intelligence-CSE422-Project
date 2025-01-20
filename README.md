@@ -1,6 +1,8 @@
 # Artificial-intelligence-CSE422-Project
 # CSE422 Project
-
+## Members:
+- Mehrab Muhtasim Sayem
+- Noushin Fariha Ronok
 ## Overview
 This project explores data processing, visualization, and modeling techniques to derive insights and build predictive models. The key steps include data cleaning, visualization, and preprocessing, focusing on converting categorical data into numerical representations for further analysis.
 
